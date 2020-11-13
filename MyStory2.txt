@@ -1,0 +1,1 @@
+This is my second message for the file MyStory2.txt
